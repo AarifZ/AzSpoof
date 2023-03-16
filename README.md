@@ -1,10 +1,10 @@
 # Azspoof Installer
 
-One stop destination for setting up spoofing for various devices. It is an installer tool that helps to flash modules with simple clicks. Makes use of various files from different sources, brought together for best utilisation.
+   One stop destination for setting up spoofing for various devices. It is an installer tool that helps to flash modules with simple clicks. Makes use of various files from different sources, brought together for best utilisation.
 Please enable Zygisk before using.
-App made through Tasker - not a conventional app.
-Please bear with the interface.
-Suggestion encouraged
+ - App made through Tasker (not a conventional app).
+ - Please bear with the interface.
+Suggestion encouraged! 
 Thank you.
 ## Dependencies
 
