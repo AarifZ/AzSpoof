@@ -25,10 +25,13 @@ Modules and versions used in the bundle:
  - USB debugging Enabled (USB Security for Miui devices)
 
 ## Installation and usage
+ - Download the zip file to Internal storage or Download folder. 
  - Install the apk and grant root access on launch.
  - Check Help in app for functions. 
- 
-    
+### Notes
+ - Some devices might have to give permission manually. (MIUI mostly)
+ - Downloading the zip file is suggested before opening app. 
+
 [safetynetfix]: https://github.com/kdrag0n/safetynet-fix
 [lsposed]: https://github.com/LSPosed/LSPosed/releases
 [taichi]: https://github.com/taichi-framework/TaiChi
